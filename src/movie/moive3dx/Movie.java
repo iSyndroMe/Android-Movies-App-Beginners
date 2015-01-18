@@ -1,7 +1,8 @@
 package movie.moive3dx;
 
 public class Movie {
-
+	//of course there is mismatch fields here because the API working only with strings
+	//for best practices define your own fields and later just convert them to stings.
 	private long id;
 	private String name;
 	private String description;
