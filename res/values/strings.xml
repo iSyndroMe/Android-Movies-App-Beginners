@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoveisApp</string>
+    <string name="title_activity_main">Movies 3DX</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_seacrh">SeacrhActivity</string>
+    <string name="title_faveorite">Favorite Movies</string>
+    <string name="title_edit">Edit Movie</string>
+    <string name="labelMovieName">Movie Name</string>
+    <string name="labelMovieDesc">Description</string>
+    <string name="exit">Exit</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="deleteMovie">Delete Moive</string>
+    <string name="label_serach">Search:</string>
+    <string name="label_title">Orignal Title:</string>
+    <string name="label_titleFav">Title:</string>
+    <string name="label_year">Year:</string>
+    <string name="label_released">Released:</string>
+    <string name="label_genre">Genre:</string>
+    <string name="label_runtime">Runtime:</string>
+    <string name="label_imdbRating">IMDB Rating:</string>
+    <string name="imgMovieALT">Movie Image</string>
+    <string name="hintMovie">add movie name&#8230;</string>
+    <string name="hintDescrption">enter some descrption here&#8230;</string>
+    <string name="hintSearch">movie for seacrh&#8230;</string>
+    <string name="textRating">Rating</string>
+
+</resources>
